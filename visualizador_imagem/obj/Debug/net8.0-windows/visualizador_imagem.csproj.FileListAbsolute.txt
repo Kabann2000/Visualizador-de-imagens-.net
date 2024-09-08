@@ -1,0 +1,16 @@
+C:\Users\Aluno\Documents\JRC C#\visualizador_imagem\bin\Debug\net8.0-windows\visualizador_imagem.exe
+C:\Users\Aluno\Documents\JRC C#\visualizador_imagem\bin\Debug\net8.0-windows\visualizador_imagem.deps.json
+C:\Users\Aluno\Documents\JRC C#\visualizador_imagem\bin\Debug\net8.0-windows\visualizador_imagem.runtimeconfig.json
+C:\Users\Aluno\Documents\JRC C#\visualizador_imagem\bin\Debug\net8.0-windows\visualizador_imagem.dll
+C:\Users\Aluno\Documents\JRC C#\visualizador_imagem\bin\Debug\net8.0-windows\visualizador_imagem.pdb
+C:\Users\Aluno\Documents\JRC C#\visualizador_imagem\obj\Debug\net8.0-windows\visualizador_imagem.Form1.resources
+C:\Users\Aluno\Documents\JRC C#\visualizador_imagem\obj\Debug\net8.0-windows\visualizador_imagem.csproj.GenerateResource.cache
+C:\Users\Aluno\Documents\JRC C#\visualizador_imagem\obj\Debug\net8.0-windows\visualizador_imagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Documents\JRC C#\visualizador_imagem\obj\Debug\net8.0-windows\visualizador_imagem.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\JRC C#\visualizador_imagem\obj\Debug\net8.0-windows\visualizador_imagem.AssemblyInfo.cs
+C:\Users\Aluno\Documents\JRC C#\visualizador_imagem\obj\Debug\net8.0-windows\visualizador_imagem.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\JRC C#\visualizador_imagem\obj\Debug\net8.0-windows\visualizador_imagem.dll
+C:\Users\Aluno\Documents\JRC C#\visualizador_imagem\obj\Debug\net8.0-windows\refint\visualizador_imagem.dll
+C:\Users\Aluno\Documents\JRC C#\visualizador_imagem\obj\Debug\net8.0-windows\visualizador_imagem.pdb
+C:\Users\Aluno\Documents\JRC C#\visualizador_imagem\obj\Debug\net8.0-windows\visualizador_imagem.genruntimeconfig.cache
+C:\Users\Aluno\Documents\JRC C#\visualizador_imagem\obj\Debug\net8.0-windows\ref\visualizador_imagem.dll
